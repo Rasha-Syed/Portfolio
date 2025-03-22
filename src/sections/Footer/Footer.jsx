@@ -11,7 +11,7 @@ function Footer() {
         transition={{ duration: 0.8 }}
         className={styles.content}
       >
-        <p>&copy; 2024 Harris Johnsen. All rights reserved.</p>
+        <p>&copy; 2024 Syed Rasha. All rights reserved.</p>
         <div className={styles.socialLinks}>
           <a href="https://github.com/Rasha-Syed" target="_blank" rel="noopener noreferrer">
             <FaGithub className={styles.icon} />
