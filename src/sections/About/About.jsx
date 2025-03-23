@@ -16,7 +16,7 @@ function About() {
         <p>
         I'm a Computer Science student passionate about web development, machine learning and data Science. 
         I have hands-on experience with HTML, CSS, and JavaScript and I’ve built full-stack projects using the MERN stack (MongoDB, Express.js, React, Node.js). 
-        I’m excited to gain more experience, learn from real-world challenges, and grow as a developer.
+        I’m excited to gain more experience, learn from real-world challenges, and grow as a developer. Hiiii
         </p>
       </motion.div>
     </section>
